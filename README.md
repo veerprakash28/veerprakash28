@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 About Me <span style="float: right;"> <img src="https://komarev.com/ghpvc/?username=veerprakash28&label=Profile%20views&color=0e75b6&style=flat" alt="veerprakash28" /> </span>
+## 🌟 About Me <img align="right" src="https://komarev.com/ghpvc/?username=veerprakash28&label=Profile%20views&color=0e75b6&style=flat" alt="veerprakash28" />
 
 <img align="right" alt="coding" width="350" src="https://onplo.com/onplo/images/site/working-developer.gif"/>
 
