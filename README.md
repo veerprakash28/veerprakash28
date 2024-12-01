@@ -41,7 +41,7 @@
 ---
 
 ## 🚀 My Recent Projects
-- [FletNix - What to Watch](https://github.com/veerprakash28/fletnix)
+- [FletNix - What to Watch](https://github.com/veerprakash28/ng-fletnix-frontend)
   - Features: User authentication, search, filtering, age-based content restriction, and more.
 - Random Username Generator (Work in Progress)
   - AI-powered random username generator with creative name combinations.
